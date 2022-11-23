@@ -2,7 +2,7 @@
 ## Codeigniter Blog Application
 
 
-## How The Codeigniter blog Application works
+# How The Codeigniter blog Application works
 
 * new users can register, after registration they can login to the blog website
 
