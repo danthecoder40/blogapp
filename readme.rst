@@ -9,9 +9,9 @@ Codeigniter Blog Application
 
 
 * new users can register, after registration they can login to the blog website
-*registered users can create a blog post ,registered users can also create blog categories , they can also delete the blog categories that they created
-*registered users can commit on blog post
-*after making a post as a registered user you can go back and edit your post
+* registered users can create a blog post ,registered users can also create blog categories , they can also delete the blog categories that they created
+* registered users can commit on blog post
+* after making a post as a registered user you can go back and edit your post
 
 
 
