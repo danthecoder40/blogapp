@@ -1,5 +1,5 @@
-##good
-Codeigniter Blog Application
+## Codeigniter Blog Application
+
 
 
 # How The Codeigniter blog Application works
